@@ -1,0 +1,82 @@
+{
+  "name": "vscode-javascript-pack",
+  "displayName": "JavaScript Extension Pack",
+  "description": "This starter extension pack includes some of the minimum extensions to get you started with JavaScript development in Visual Studio Code.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "css",
+    "development",
+    "editor",
+    "extension-pack",
+    "extension",
+    "file",
+    "formatter",
+    "frontend",
+    "git",
+    "html",
+    "javascript-pack",
+    "javascript",
+    "json",
+    "linter",
+    "node.js",
+    "node",
+    "nodejs",
+    "npm",
+    "pack",
+    "vscode",
+    "web development",
+    "web",
+    "webdev"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-javascript-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-javascript-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-javascript-pack/issues"
+  },
+  "extensionPack": [
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "HTMLHint.vscode-htmlhint",
+    "pranaygp.vscode-css-peek",
+    "bradlc.vscode-tailwindcss",
+    "vivaxy.vscode-conventional-commits",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+    "imgildev.vscode-auto-barrel",
+    "formulahendry.code-runner",
+    "usernamehw.errorlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "imgildev.vscode-json-flow",
+    "MS-vsliveshare.vsliveshare",
+    "ritwickdey.LiveServer",
+    "christian-kohler.path-intellisense",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
