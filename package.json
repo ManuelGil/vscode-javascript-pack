@@ -1,8 +1,8 @@
 {
   "name": "vscode-javascript-pack",
-  "displayName": "JavaScript Essentials Pack",
+  "displayName": "JavaScript Essentials Extensions Pack",
   "description": "This starter extension pack includes some of the minimum extensions to get you started with JavaScript development in Visual Studio Code.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -71,12 +71,15 @@
     "shardulm94.trailing-spaces",
     "imgildev.vscode-auto-barrel",
     "formulahendry.code-runner",
+    "mikestead.dotenv",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
     "imgildev.vscode-json-flow",
     "MS-vsliveshare.vsliveshare",
     "ritwickdey.LiveServer",
     "christian-kohler.path-intellisense",
-    "yoavbls.pretty-ts-errors"
+    "yoavbls.pretty-ts-errors",
+    "simonsiefke.svg-preview",
+    "rangav.vscode-thunder-client"
   ]
 }

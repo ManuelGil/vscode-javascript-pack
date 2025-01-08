@@ -50,6 +50,7 @@ This starter extension pack includes some of the minimum extensions to get you s
 
 - [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel)
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
@@ -57,6 +58,8 @@ This starter extension pack includes some of the minimum extensions to get you s
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- [Svg Preview](https://marketplace.visualstudio.com/items?itemName=simonsiefke.svg-preview)
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ## Changelog
 
