@@ -1,6 +1,6 @@
 {
   "name": "vscode-javascript-pack",
-  "displayName": "JavaScript Essentials Extensions Pack",
+  "displayName": "JavaScript Essentials Extension Pack for VSCode",
   "description": "This starter extension pack includes some of the minimum extensions to get you started with JavaScript development in Visual Studio Code.",
   "version": "1.1.0",
   "icon": "icon.png",
